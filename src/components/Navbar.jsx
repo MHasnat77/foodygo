@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Logo from "../assets/Logo.svg";
+import Logo from "../assets/logo.svg";
 import Magnifying from "../assets/Magnifying.svg";
 import cart from "../assets/cart.svg";
 
