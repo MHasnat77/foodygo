@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Abel";
+  src: url("/assets/Abel-Regular.ttf") format("truetype"); /* Corrected format */
+  font-weight: 400; /* Normal */
+  font-style: normal;
+}
