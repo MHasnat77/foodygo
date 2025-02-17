@@ -40,9 +40,7 @@ const Section4 = () => {
             </div>
           </div>
           {/*  4*/}
-          <div className=" border-t-4 border-dashed  border-[#6F2C16] w-[20vw] h-[0px] lg:mt-[10.41vh]  md:mt-[3vh] mt-[2vh]  ">
-            {/* <img src={Line} alt="" /> */}
-          </div>
+          <div className=" border-t-4 border-dashed  border-[#6F2C16] w-[20vw] h-[0px] lg:mt-[10.41vh]  md:mt-[3vh] mt-[2vh]  "></div>
           {/*  5*/}
           <div className="items-center flex flex-col text-center">
             <div className="  bg-[#FFD755] w-[11.32vw] h-[11.32vw] rounded-full flex justify-center items-center">
